@@ -18,4 +18,9 @@ Noisex = WienerInDFT(Noisex,std2(Noisex));
 Ix = double(rgb2gray(imread(imx)));
 C = crosscorr(Noisex,Ix.*Fingerprint);
 detection = PCE(C)
+IFS
+AJ;SOLFA
+ASDNVNKASVV
+ASDOVNALSVN
+ANSVMALS
 
